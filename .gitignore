@@ -1,0 +1,10 @@
+*~
+*.bag
+*.pyc
+.DS_Store
+mocap_ws/src/mocap/machines
+*.o
+mocap_ws/build
+mocap_ws/devel
+software/Pangolin/build
+software/dso/build

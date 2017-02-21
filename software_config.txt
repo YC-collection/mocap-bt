@@ -1,0 +1,9 @@
+ubuntu16.04 ROS kinetic
+Opencv 3.1
+python 2.7,3.5
+eigen 3.1
+lcm
+OpenTLD
+http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+
+virtualenv-clone-0.2.6 virtualenvwrapper-4.7.2
