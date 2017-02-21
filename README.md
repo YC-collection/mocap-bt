@@ -32,6 +32,7 @@ Just install 3 main library Pangolin, dso for GUI
 
 ### Building Pangolin
 ```
+    sudo apt-get install libglew-dev
     cd $HOME/mocap/software/Pangolin
     mkdir build                                                                                                                      
     cd build
