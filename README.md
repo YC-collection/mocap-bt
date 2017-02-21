@@ -69,7 +69,7 @@ Try GUI base on Pangolin and dso
 
 #Demo videos
 
-[![mocap-gui]()](https://www.youtube.com/watch?v=JL7ras7Z7Tc)
+[![mocap-gui](https://github.com/mocapNCTU/mocap-bt/blob/master/software/mocap-gui.png)](https://www.youtube.com/watch?v=JL7ras7Z7Tc)
 
 Open 2 terminal shows like this, you can utilize byobu tool.
 don't forget your /dev/video0 or /dev/video1 avalaible in usb_cam-test.launch
